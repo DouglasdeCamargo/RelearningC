@@ -2,7 +2,7 @@
 
 int main(){
     int counter;
-    int num = 1;
+    int numero = 1;
 
     for (counter =1; counter <= 10; counter++) {
         printf("test\n");
